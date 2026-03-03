@@ -18,7 +18,7 @@ public class DBConexion {
             "?useSSL=false&serverTimezone=America/Santiago" +
             "&characterEncoding=UTF-8&allowPublicKeyRetrieval=true";
     private static final String USUARIO  = "root";
-    private static final String PASSWORD = "TU_PASSWORD_AQUI";
+    private static final String PASSWORD = "123456789";
 
     /** Instancia única del Singleton */
     private static DBConexion instancia;
