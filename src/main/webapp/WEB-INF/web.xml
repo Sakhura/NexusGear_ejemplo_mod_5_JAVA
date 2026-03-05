@@ -32,10 +32,10 @@
     <error-code>404</error-code>
     <location>/index.jsp</location>
   </error-page>
-  <error-page>
+  <!-- <error-page>
     <error-code>500</error-code>
     <location>/index.jsp</location>
-  </error-page>
+  </error-page> -->
 
   <!--
     NOTA: Con Jakarta EE 9+ y anotaciones @WebServlet,
